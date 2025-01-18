@@ -45,3 +45,4 @@ RUN sed -i -e 's/^APT/# APT/' -e 's/^DPkg/# DPkg/' /etc/apt/apt.conf.d/docker-cl
 COPY --from=selectdb/doris-debug-ubuntu:latest /doris-debug /opt/apache-doris/
 
 WORKDIR /opt/apache-doris
+
