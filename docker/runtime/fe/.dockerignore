@@ -1,0 +1,22 @@
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore node modules
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+
+# Ignore temporary files
+tmp/
+temp/
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
