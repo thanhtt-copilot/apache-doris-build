@@ -4,3 +4,4 @@ docker/runtime/be/resource/amd64/apache-doris-3.0.3-bin-x64
 docker/runtime/fe/resource/amd64/apache-doris-3.0.3-bin-x64
 docker/runtime/ms/resource/amd64/apache-doris-3.0.3-bin-x64
 docker/runtime/broker/resource/amd64/apache-doris-3.0.3-bin-x64
+s3-accesskey.txt
