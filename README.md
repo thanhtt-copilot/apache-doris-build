@@ -57,8 +57,8 @@ CREATE STORAGE VAULT IF NOT EXISTS s3_vault
     PROPERTIES (
     "type"="S3",
     "s3.endpoint"="s3.ap-southeast-1.amazonaws.com",
-    "s3.access_key" = "AKIAYFAE77M6IBACIKND",
-    "s3.secret_key" = "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",
+    "s3.access_key" = "x",
+    "s3.secret_key" = "x",
     "s3.region" = "ap-southeast-1",
     "s3.root.path" = "ssb_sf1_p2_s3",
     "s3.bucket" = "demo-apache-doris",
